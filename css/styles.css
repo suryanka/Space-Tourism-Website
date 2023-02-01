@@ -1,0 +1,277 @@
+/* Tag Selectors */
+/* html{
+    height: 100%;
+} */
+body{
+    background-image: url(../assets/home/background-home-desktop.jpg);
+    /* height: 100%; */
+}
+
+.header_horizontal_rule{
+    width: 30%;
+    position: absolute;
+    left:200px;
+    margin-top: 60px;
+    opacity: 0.5;
+}
+
+/* Class Selectors */
+.all_bars{
+    color: white;
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.all_pages_bars{
+    background: rgba(0, 0, 0, 0.3);
+    width: 55%;
+    position: absolute;
+    right: 0px;
+    padding-left: 50px;
+    margin-top: 30px;
+}
+.white_star_logo{
+    margin-top: 40px;
+}
+.para_home{
+    color: white;
+    width:30%;
+    margin-left: 70px;
+    position: absolute;
+    bottom: 90px;
+}
+.para_first_home{
+    text-transform: uppercase;
+    width: 63%;
+    font-size: 20px;
+    position: relative;
+    left:70px;
+    
+}
+.para_second_home{
+    text-transform: uppercase;
+    font-size: 100px;
+    width: 67%;
+    position: relative;
+    left:66px;
+}
+.para_third_home
+{
+    width: 320px;
+    margin: 0 auto 0 auto;
+}
+.white_circle{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    bottom: 90px;
+}
+.explore{
+    color: rgb(6, 8, 70);
+    display: inline-block;
+    position: absolute;
+    right: 340px;
+    bottom: 155px;
+    font-size: 20px;
+}
+
+/* Destination Mars Page  */
+/* Tag Selectors */
+/* Class Selectors */
+.destination_mars{
+    background-image: url(../assets/destination/background-destination-desktop.jpg);
+}
+
+.dest{
+    color:white;
+    position: absolute;
+    top: 150px;
+    left:120px;
+    font-size: 20px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+.div_para{
+    position: absolute;
+    color: white;
+    bottom: 30px;
+    right:150px;
+}
+.pages_bars{
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+.all_div_bars{
+    text-decoration: none;
+    color: white;
+    opacity: 0.8;
+    
+}
+.mars{
+    font-size: 100px;
+    letter-spacing: 5px;
+}
+.para_line_break{
+    width:100%;
+    opacity: 0.5;
+}
+.avg_distance{
+    display: inline-block;
+}
+.est_travel_time
+{
+    display: inline-block;
+    position: absolute;
+    right:40px;
+}
+.small_footer_mars{
+    font-size:12px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+.large_footer_mars{
+    font-size:20px;
+}
+.para_third_mars{
+    line-height: 1.5;
+}
+
+.mars_img{
+    position: absolute;
+    bottom: 20px;
+    left:200px;
+}
+
+/* Crew Enginner Page  */
+/* Tag Selectors */
+/* Class Selectors */
+.crew_engineer{
+    background-image: url(../assets/crew/background-crew-desktop.jpg);
+}
+
+.para_crew{
+    color: white;
+    position: absolute;
+    bottom:100px;
+    left:120px;
+}
+.para_first_crew{
+    text-transform: uppercase;
+    font-size: 30px;
+    opacity: 0.7;
+    margin: 0 auto 5px auto;
+}
+.para_second_crew{
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.para_third_crew
+{
+    margin: 20px auto 0 auto;
+    line-height: 1.5;
+    word-spacing: 2px;
+}
+
+.anoushesh_ansari_pic{
+    position: absolute;
+    bottom: 0px;
+    right:150px;
+}
+
+/* Crew Enginner Page  */
+/* Tag Selectors */
+/* Class Selectors */
+.technology_vehicle{
+    background-image: url(../assets/technology/background-technology-desktop.jpg);
+}
+
+.img_vehicle_portrait{
+    position: absolute;
+    bottom: 30px;
+    right: 0px;
+}
+
+.para_tech{
+    color: white;
+    position: absolute;
+    bottom:150px;
+    left:220px;
+    
+}
+.para_first_tech{
+    text-transform: uppercase;
+    font-size: 15px;
+    margin: 0 auto 5px auto;
+}
+.para_second_tech{
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.para_third_tech
+{
+    margin: 20px auto 0 auto;
+    line-height: 1.5;
+    word-spacing: 2px;
+}
+
+.white_circle_tech{
+    position: absolute;
+    bottom:330px;
+    left:121px;
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.transparent_second_circle_tech{
+    position: absolute;
+    bottom:230px;
+    left:120px;
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+}
+.transparent_third_circle_tech{
+    position: absolute;
+    bottom:130px;
+    left:120px;
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+}
+
+.first{
+    position: absolute;
+    bottom: 320px;
+    left: 150px;
+    font-size: 30px;
+}
+
+.second{
+    position: absolute;
+    bottom: 220px;
+    left: 150px;
+    font-size: 30px;
+    color: white;
+}
+
+.third{
+    position: absolute;
+    bottom: 120px;
+    left: 150px;
+    font-size: 30px;
+    color: white;
+}
